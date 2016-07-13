@@ -1,0 +1,29 @@
+h1 {
+    text-align: center;
+}
+form {
+    text-align: center;
+    margin-bottom: 30px;
+}
+label {
+    display: block;
+    font-size: .9rem;
+    font-style: italic;
+    margin-bottom: 16px;
+}
+.terminal {
+    width: 400px;
+    margin: 0 auto;
+    border: thin solid #555;
+    padding: 30px;
+    line-height: 150%;
+    display: none;
+}
+
+p {
+    margin-top: 0px;
+    border-bottom: thin solid #ddd;
+}
+div.error {
+    color: tomato;
+}
